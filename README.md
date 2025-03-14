@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Veturi Sriram</h1>
 <h3 align="center">A passionate developer from India</h3>
 
--   👨‍💻 All of my projects are available at [jaswanthsriram.vercel.app](jaswanthsriram.vercel.app)
+-   👨‍💻 All of my projects are available at [jaswanthsriram.vercel.app](https://jaswanthsriram.vercel.app)
 
 -   📫 How to reach me **veturijaswanthsriram@gmail.com**
 
